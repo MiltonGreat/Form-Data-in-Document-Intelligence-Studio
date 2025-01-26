@@ -28,9 +28,9 @@ This project leverages a prebuilt receipt model that is trained to identify spec
   - Total amounts, subtotals, and tax values.
   - Process a variety of receipt formats, including thermal receipts, hotel receipts, and parking receipts.
 
-##### Analyze a receipt in Document Intelligence Studio
+#### Sample Receipt
 
-![screenshot-documentintelligence ai azure com-2025 01 26-11_17_49](https://github.com/user-attachments/assets/f1bbd23f-01f4-4c67-b743-9f6799c349bf)
+![receipt](https://github.com/user-attachments/assets/2b8b8a56-6889-4b5b-9015-5e1a5308c388)
 
 ### Project Workflow
 
@@ -46,7 +46,7 @@ This project leverages a prebuilt receipt model that is trained to identify spec
 - Upload a receipt image or PDF.
 - Observe the extracted fields, such as merchant details, date, and totals.
 
-##### Receipt Sample
+#### Analyze a receipt in Document Intelligence Studio
 
 ![screenshot-documentintelligence ai azure com-2025 01 26-11_18_27](https://github.com/user-attachments/assets/ffd37258-3dbd-4770-bfa2-45ac4c87bcb3)
 
