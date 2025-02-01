@@ -64,4 +64,4 @@ This project leverages a prebuilt receipt model that is trained to identify spec
 
 ### References
 
-https://learn.microsoft.com/en-us/training/modules/analyze-receipts-form-recognizer/4-exercise/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.document-intelligence-knowledge-mining
+Exercise: [Microsoft Training Module](https://learn.microsoft.com/en-us/training/modules/analyze-receipts-form-recognizer/4-exercise/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.document-intelligence-knowledge-mining)
